@@ -364,7 +364,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 100$
+  m_text: -$
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 894af4e8aa9d6994c87a0a129a026227, type: 2}
   m_sharedMaterial: {fileID: 6106689612472289964, guid: 894af4e8aa9d6994c87a0a129a026227,
@@ -849,7 +849,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -492743388, guid: 8b01034138307be4495038431f265d2a, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -925,7 +925,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0414\u043E\u0445\u043E\u0434"
+  m_text: '-'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 894af4e8aa9d6994c87a0a129a026227, type: 2}
   m_sharedMaterial: {fileID: 6106689612472289964, guid: 894af4e8aa9d6994c87a0a129a026227,

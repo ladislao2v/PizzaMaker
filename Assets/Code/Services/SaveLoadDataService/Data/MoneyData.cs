@@ -3,8 +3,8 @@
 namespace Code.Services.SaveLoadDataService.Data
 {
     [Serializable]
-    public class PlayerData
+    public class MoneyData
     {
-        public int Coins { get; set; }
+        public int Money { get; set; }
     }
 }

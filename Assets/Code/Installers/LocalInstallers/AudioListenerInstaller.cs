@@ -7,10 +7,7 @@ namespace Code.Installers.LocalInstallers
     {
         [SerializeField] private AudioListener _audioListener;
         
-        public override void InstallBindings()
-        {
-            BindAudioListener();
-        }
+        public override void InstallBindings() => BindAudioListener();
 
         private void BindAudioListener() =>
             Container
